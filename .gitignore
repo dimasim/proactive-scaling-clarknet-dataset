@@ -1,0 +1,13 @@
+# Data files
+*.csv
+*.npz
+*.npy
+*.pkl
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
